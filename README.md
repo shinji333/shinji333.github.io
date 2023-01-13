@@ -1,12 +1,17 @@
-# shinji333.github.io
+
 Samuel Gian Sotaso
 
 > **LG: ARROWSMITH**
 
 **FAVORITE BANDS**
 - The Cure
-       
-            Some of my favorite songs of them.
+  
+  The Cure are an English rock band formed in 1978 in Crawley, West Sussex. 
+ Throughout numerous lineup 
+changes since the band's formation, guitarist, lead                vocalist, 
+and songwriter Robert Smith has remained the only constant member.
+
+   *Here's some of my favorite songs of them.*
  
  
     1.	[A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA?si=e6a06b4efcf24407)
@@ -18,7 +23,7 @@ Samuel Gian Sotaso
 ![image](https://user-images.githubusercontent.com/122244339/211964262-4422e984-3fb7-4f61-b849-1d07e8f6ac82.png)
 
 - Radiohead
-
+             
 
 
 
